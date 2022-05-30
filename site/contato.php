@@ -30,8 +30,6 @@ include TEMPLATE_BASE."/nav.php";
                     } else{
                         echo "Falha no envio. Tente novamente ".$usuario;
                     }
-                } else{
-                    echo "Falha no envio. Tente novamente";
                 }
             ?>     
 
